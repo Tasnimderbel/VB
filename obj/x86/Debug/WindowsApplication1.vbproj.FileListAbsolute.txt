@@ -1,0 +1,46 @@
+C:\Users\Asus\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Asus\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Fournisseur.resources
+C:\Users\Asus\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Asus\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Facture.resources
+C:\Users\Asus\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Asus\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Fournisseur.resources
+C:\Users\Asus\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Asus\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Asus\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Asus\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Asus\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Asus\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Asus\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Asus\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Article.resources
+F:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+F:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+F:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Asus\Desktop\ts vb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Asus\Desktop\ts vb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Asus\Desktop\ts vb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Asus\Desktop\ts vb\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Asus\Desktop\ts vb\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Asus\Desktop\ts vb\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Asus\Desktop\ts vb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Facture.resources
+C:\Users\Asus\Desktop\ts vb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Asus\Desktop\ts vb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Fournisseur.resources
+C:\Users\Asus\Desktop\ts vb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Asus\Desktop\ts vb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Article.resources
+C:\Users\Asus\Desktop\ts vb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\ts vb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Article_mode_deconnectée.resources
+C:\Users\Asus\Desktop\ts vb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Facture_mode_deconnectée.resources
+C:\Users\Asus\Desktop\ts vb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Fournisseur_mode_deconnectée.resources
+F:\ts vb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+F:\ts vb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+F:\ts vb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+F:\ts vb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Article_mode_deconnectée.resources
+F:\ts vb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Facture_mode_deconnectée.resources
+F:\ts vb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Facture.resources
+F:\ts vb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\ts vb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Fournisseur_mode_deconnectée.resources
+F:\ts vb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Fournisseur.resources
+F:\ts vb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\ts vb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Article.resources
+F:\ts vb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
